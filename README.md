@@ -20,3 +20,4 @@ Schedule and Syllabus](http://cs231n.stanford.edu/syllabus.htm)
   * Compilers
     * [Learn C * Build your own LISP](http://www.buildyourownlisp.com/)
     * [Micro Parser Combinators](https://github.com/orangeduck/mpc)
+    * [Resources for Amateur Compiler Writers](http://c9x.me/comp-bib/)
