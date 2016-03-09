@@ -16,6 +16,7 @@ Schedule and Syllabus](http://cs231n.stanford.edu/syllabus.htm)
       * [Part 2 - Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://www-cs.stanford.edu/~quocle/tutorial2.pdf)
     * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
     * [Deep Learning](http://goodfeli.github.io/dlbook/)
+    * [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
   * Compilers
     * [Learn C * Build your own LISP](http://www.buildyourownlisp.com/)
     * [Micro Parser Combinators](https://github.com/orangeduck/mpc)
